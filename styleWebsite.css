@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    font-family: cursive;
+    color:white;
+    margin-left: 30px;
+}
+.layer{
+    width:100%;
+    background: url("back.jpg") no-repeat fixed center;
+    background-size: cover;
+    height: 70vh;
+}   
+.main{  
+    background-color: grey;
+}
+.main p{
+    margin-left: 2cm;
+    font-family: cursive;
+    font-size: 25px;
+}
+.main li{
+    margin-left: 2cm;
+    font-family: cursive;
+    font-size: 25px;
+}
+.img{
+    margin-left: 10cm;
+}
